@@ -8,7 +8,7 @@ int main() {
 		printf("1. Nhap so phan tu va gia tri cho mang\n");
 		printf("2. In ra cac gia tri phan tu trong mang\n");
 		printf("3. Dem so luong cac so nguyen to trong mang\n");
-		printf("4. Tim gi· tri nho thu hai trong mang\n");
+		printf("4. Tim gi√° tri nho thu hai trong mang\n");
 		printf("5. Them vi tri vao mang\n");
 		printf("6. Xoa phan tu\n");
 		printf("7. sap xep mang theo thu tu giam dan bang Insertion sort\n");
